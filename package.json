@@ -1,0 +1,28 @@
+{
+  "name": "entorno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarroyave27/Entorno.git"
+  },
+  "keywords": [],
+  "author": "Sara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarroyave27/Entorno/issues"
+  },
+  "homepage": "https://github.com/sarroyave27/Entorno#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
